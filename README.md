@@ -1,4 +1,6 @@
-Changelog
+Changelog! 
+
+
 -----v1.0-----
 - Main menu done
 - Game stages 1 and 2 ready
