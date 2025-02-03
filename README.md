@@ -19,6 +19,8 @@ Changelog!
 - Minor code changes
 - Fixed non-game breaking bugs
 
+  ==Done By: Zen==
+
 
 how the version numbering work: 
 
