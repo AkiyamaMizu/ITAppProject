@@ -21,5 +21,6 @@ Changelog!
 
 
 how the version numbering work: 
+
 1st number is major update
 2nd number is bug fix
