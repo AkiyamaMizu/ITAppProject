@@ -14,6 +14,11 @@ Changelog!
 
 ==Done By: Zen==
 
+-----v1.1.1-----
+- Added comments to all blocks
+- Minor code changes
+- Fixed non-game breaking bugs
+
 
 how the version numbering work: 
 1st number is major update
