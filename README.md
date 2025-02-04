@@ -26,3 +26,10 @@ how the version numbering work:
 
 1st number is major update
 2nd number is bug fix
+
+-----v1.1.2-----
+
+- added gifs and animations on how to actually build the keyboard
+- filled in some missing assets
+
+    ==Done By: joon kiat==
