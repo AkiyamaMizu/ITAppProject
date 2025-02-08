@@ -4,7 +4,6 @@ Changelog!
 -----v1.0-----
 - Main menu done
 - Game stages 1 and 2 ready
-- Fuck you
 
 ==Done By: Zen==
 
@@ -19,8 +18,12 @@ Changelog!
 - Minor code changes
 - Fixed non-game breaking bugs
 
-  ==Done By: Zen==
+ ==Done By: Zen==
 
+- added gifs and animations on how to actually build the keyboard
+- filled in some missing assets
+
+==Done By: joon kiat==
 
 how the version numbering work: 
 
@@ -29,7 +32,4 @@ how the version numbering work:
 
 -----v1.1.2-----
 
-- added gifs and animations on how to actually build the keyboard
-- filled in some missing assets
 
-    ==Done By: joon kiat==
