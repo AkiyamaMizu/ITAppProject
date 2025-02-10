@@ -19,7 +19,8 @@ Changelog!
 - Fixed non-game breaking bugs
 
  ==Done By: Zen==
-
+ 
+-----v1.1.2-----
 - added gifs and animations on how to actually build the keyboard
 - filled in some missing assets
 
@@ -30,6 +31,6 @@ how the version numbering work:
 1st number is major update
 2nd number is bug fix
 
------v1.1.2-----
-
+-----v1.2.1-----
+download link : https://drive.google.com/file/d/1p5lxMDQEnM6M1fdpxriS9PNpeS7pwux9/view?usp=sharing
 
